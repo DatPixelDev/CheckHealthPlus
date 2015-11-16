@@ -1,0 +1,11 @@
+name: CheckHealthPlus
+main: ch.pixel.dev.Main
+version: 2.0
+description: Checks health of players with config.
+commands:
+  h:
+    usage: /<command> [player]
+    description: Checks health.
+  hinfo:
+    usage: /<command>
+    description: Shows info about the Plugin.
