@@ -1,0 +1,7 @@
+HealthColor: '&a'
+HeartColor: '&c'
+PlayerMsg: '&3You have '
+TargetColor: '&6'
+TargetMsg: ' &3is currently at '
+NotFound: '&cPlayer not found.'
+TooManyArgs: '&cToo many arguments!'
